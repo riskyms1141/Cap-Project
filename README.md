@@ -9,7 +9,7 @@ Tujuan dari analisis ini untuk menganalisis risiko diabetes pada ibu hamil mengg
 *Raw dataset*
 https://www.kaggle.com/datasets/mathchi/diabetes-data-set 
 
-*AI support explanationAI support explanation*
+*AI support explanation*
 Membuat semua visualisasi data menggunakan IBM Granite. Setelah setiap grafik jadi, saya memanfaatkan sebuah AI generatif sebagai rekan diskusi untuk menganalisis maknanya lebih dalam.
 AI membantu memberikan perspektif awal dan mempercepat penyusunan draf kesimpulan. Namun, semua interpretasi akhir dan keputusan strategis dalam laporan ini sepenuhnya saya tentukan sendiri.
 
